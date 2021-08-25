@@ -1,0 +1,4 @@
+C:\Project\Doctor_Appoinment\obj\Debug\netcoreapp3.1\Doctor_Appoinment.AssemblyInfoInputs.cache
+C:\Project\Doctor_Appoinment\obj\Debug\netcoreapp3.1\Doctor_Appoinment.AssemblyInfo.cs
+C:\Project\Doctor_Appoinment\obj\Debug\netcoreapp3.1\Doctor_Appoinment.csproj.CoreCompileInputs.cache
+C:\Project\Doctor_Appoinment\obj\Debug\netcoreapp3.1\Doctor_Appoinment.MvcApplicationPartsAssemblyInfo.cache
